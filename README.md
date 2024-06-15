@@ -46,6 +46,7 @@ You can usually find community members in the [`#rp-rs:matrix.org` Matrix room](
 - [μLA](https://github.com/dotcypress/ula) - A SUMP/OLS compatible Micro Logic analyzer using PIO
 - [RMK](https://github.com/HaoboGu/rmk) - A feature-rich Rust keyboard firmware
 - [rp2040-sound-card](https://github.com/mgottschlag/rp2040-usb-sound-card) - A USB Audio implementation on the RP2040
+- [rp2040-37c3-oled](https://github.com/kpcyrd/rp2040-37c3-oled) - Rust Firmware for displaying the 37C3 Logo animation
 - [inputmodule-rs](https://github.com/FrameworkComputer/inputmodule-rs) - A Laptops Input Module Firmware
 
 <!-- omit in toc -->
