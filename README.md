@@ -22,7 +22,7 @@ You can usually find community members in the [`#rp-rs:matrix.org` Matrix room](
 
 ## Books, Blogs, and Training Materials
 
-- [EN] [The examples in rp-hal](https://github.com/rp-rs/rp-hal/tree/main/rp2040-hal/examples)
+- [EN] [The examples in rp-hal](https://github.com/rp-rs/rp-hal/tree/main/rp2040-hal-examples)
 - [EN] [Getting Started with Rust on a Raspberry Pi Pico (Part 1)](https://reltech.substack.com/p/getting-started-with-rust-on-a-raspberry)
 - [EN] [Programing in Rust the XIAO RP2040 board](https://tutoduino.fr/en/tutorials/programing-in-rust-the-xiao-rp2040-board/)
 
